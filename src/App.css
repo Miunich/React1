@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.fondo{
+  background-color: aqua;
+  color:white;
+  font-size:2em;
+}
+.im{
+  width: 20%;
+}
